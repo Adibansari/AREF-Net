@@ -1,0 +1,9 @@
+# params.yaml
+train:
+  batch_size: 32
+  epochs: 100
+
+paths:
+  raw_data: data/raw/cifar-10-batches-py
+  processed_data: data/processed
+  model: models
