@@ -127,4 +127,3 @@ If you use this code in your research, please cite our paper:
 ```bash
 A. Ansari, G. Marken, S. Shobhit, and P. Dongre, "AREF-Net: Bridging Residual, Efficient, and Attention-Based Architectures for Image Classification," in 2023 International Conference on Advanced Computing & Communication Technologies (ICACCTech), Banur, India, 2023, pp. 450-456. doi: 10.1109/ICACCTech61146.2023.00080.
 ```
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
