@@ -33,8 +33,8 @@ AREF-Net is a hybrid model that combines the strengths of Residual Networks, Eff
 2. Create a virtual environment and activate it:
 
     ```bash
-    python -m venv env
-    source env/bin/activate  # On Windows, use `env\Scripts\activate`
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
 
 3. Install the required packages:
